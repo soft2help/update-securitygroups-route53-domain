@@ -89,3 +89,8 @@ This script uses AWS POWERSHELL TOOLS
 Install AWS PowerShell tools 
 <https://docs.aws.amazon.com/powershell/latest/userguide/pstools-getting-set-up.html>
 
+You can execute this script manually or put it in task scheduler and create an automated task.
+
+check also
+<https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1>
+
